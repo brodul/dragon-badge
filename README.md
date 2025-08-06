@@ -9,8 +9,8 @@ Planed for bsides in 2020, but got canceled. Used in 2023 and 2024
 
 # SVGs
 
-![alt text](kicad\svgs\top.svg)
-![alt text](kicad\svgs\bottom.svg)
+![alt text](kicad/svgs/top.svg)
+![alt text](kicad/svgs/bottom.svg)
 
 # Kicad screenshots
 
